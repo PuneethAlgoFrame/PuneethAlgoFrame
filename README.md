@@ -66,7 +66,7 @@
 
 ## 📈 Contributions in Organizations
 
-![Org Contributions](https://github-contributions.vercel.app/api/username/PuneethAlgoFrame)
+![Puneeth’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PuneethAlgoFrame&theme=react-dark&area=true&hide_border=false)
 
 ## 🚀 **About Me**
 
