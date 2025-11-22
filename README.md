@@ -12,13 +12,6 @@
 
 [![AlgoMeet](https://img.shields.io/badge/Organization-AlgoMeet-blue?style=for-the-badge)](https://github.com/Algoframe-Private-Limited)
 
-<p align="left">
-  <a href="[https://github.com/Algomeet](https://github.com/Algoframe-Private-Limited)">
-    <img src="[https://algoframe.in/](https://github.com/Algoframe-Private-Limited)" height="60" />
-  </a>
-</p>
-
-
 ## 🌐 **Connect With Me**
 
 <p align="left">
@@ -71,7 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethAlgoFrame&layout=compact&theme=merko&hide_border=true" height="160"/>
 </p>
 
+## 📈 Contributions in Organizations
 
+![Org Contributions](https://github-contributions.vercel.app/api/username/PuneethAlgoFrame)
 
 ## 🚀 **About Me**
 
