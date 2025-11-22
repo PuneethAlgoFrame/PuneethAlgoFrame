@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AFEFF&center=true&vCenter=true&random=false&width=550&lines=Android+Developer+with+9%2B+Years+Experience;Jetpack+Compose+%7C+Kotlin+Expert;Building+Scalable+App+Architectures;Lifelong+Learner+%26+Tech+Content+Creator" alt="Typing animation" />
 </p>
 
+## 🏢 Organizations
+
+[![AlgoMeet](https://img.shields.io/badge/Organization-AlgoMeet-blue?style=for-the-badge)](https://github.com/Algoframe-Private-Limited)
+
 
 ## 🌐 **Connect With Me**
 
