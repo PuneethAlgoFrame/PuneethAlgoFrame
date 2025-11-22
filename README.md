@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="[https://github.com/Algomeet](https://github.com/Algoframe-Private-Limited)">
-    <img src="https://algoframe.in/" height="60" />
+    <img src="[https://algoframe.in/](https://github.com/Algoframe-Private-Limited)" height="60" />
   </a>
 </p>
 
